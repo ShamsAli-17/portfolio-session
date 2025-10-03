@@ -19,7 +19,7 @@ const skills = [
 
 const Skills = () => {
   return (
-    <section className="min-h-screen flex items-center justify-center px-6 bg-white">
+    <section id='skills' className="min-h-screen flex items-center justify-center px-6 bg-white">
       <div className="max-w-5xl w-full text-center">
         <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-10">My Skills</h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8">
